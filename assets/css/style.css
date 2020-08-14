@@ -265,11 +265,15 @@ h1, h2, h3, h4, h5, h6 {
   #inicio h1 {
     font-size: 28px;
     line-height: 36px;
+    padding-left: 10px;
   }
   #inicio h2 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
+  }
+   #inicio p {
+    padding-left: 10px;
   }
 }
 
