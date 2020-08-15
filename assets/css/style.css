@@ -1085,3 +1085,7 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.rounded-circle {
+    border-radius: 15% !important;
+}
