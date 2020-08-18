@@ -1090,3 +1090,40 @@ section {
   border-radius: 50% !important;
   box-shadow: 0px 0px 120px #0e9ddd;
 }
+
+.interests .icon-box {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: rgba(20, 157, 221, 0.9);
+    transition: ease-in-out 0.3s;
+}
+
+.interests .icon-box i {
+    font-size: 32px;
+    padding-right: 10px;
+    line-height: 1;
+}
+
+.interests .icon-box h3 {
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-size: 16px;
+    color: #fff;
+}
+
+.pp {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.cbp {
+    background: #2aa6e0;
+    color: white;
+}
+
+.card {
+    min-height: 450px;
+}
